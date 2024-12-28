@@ -1,5 +1,7 @@
 # Full-Stack-Java-App-Deployment
 ![Img-8](https://github.com/user-attachments/assets/29964a3b-faf9-4b56-8547-3a95b1a96ffd)
+
+
 I worked on a project that involved deploying a full-stack Java application using a fully automated CI/CD pipeline on Kubernetes. The pipeline was built using Jenkins to manage the build and deployment processes. OWASP Dependency-Check was used for vulnerability scanning, while SonarQube helped us enforce high code quality standards. Docker containers were built for both the frontend and backend, and the artifacts were stored in Nexus Repository. Once everything was successfully built and tested, the application was deployed to Kubernetes, ensuring scalability and high availability. The project helped automate and streamline the entire deployment process, leading to faster development cycles and improved application security.
 
 # Tools & Technologies Used-
